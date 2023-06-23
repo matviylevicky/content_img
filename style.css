@@ -16,7 +16,7 @@
   gap: 30px;
 }
 .teammate-card {
-  flex-basis: 270px;
+  width: 270px;
 }
 .teammate-photo {
   width: 100%;
