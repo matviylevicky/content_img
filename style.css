@@ -1,0 +1,23 @@
+.our-team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 50px;
+  background-color: #f5f4fa;
+  padding: 95px 0;
+}
+.our-team_title {
+  font-size: 36px;
+  font-weight: 700;
+}
+.our-team_cards {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.teammate-card {
+  flex-basis: 270px;
+}
+.teammate-photo {
+  width: 100%;
+}
